@@ -5,7 +5,7 @@
 
 #*********************************************************************
 
-#In my program if we comment the lines 95,104-110. 
+#In my program if we comment the lines 97,106-112. 
 #My program will always end up in finding the correct word,and it will always win. 
 #But if we keep these lines  95,104-110. uncommented, the program might win/lose in some cases.
 # start()---> this will begin the program just write start() and then next line give input.
